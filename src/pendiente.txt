@@ -1,0 +1,6 @@
+hacer modulos pendientes
+
+idUser, fullname, email, password, uri, age,
+
+
+semana 11, proyecto
